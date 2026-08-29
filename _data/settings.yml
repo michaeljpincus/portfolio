@@ -7,7 +7,7 @@ logo: '/assets/img/musa-logo.png'
 # A brief introduction or mission statement that appears at the top of the
 # portfolio home page, above the project list. If you don't want one of the
 # intro_title or intro_text to show up, just set the appropriate value to null.
-intro_title: Title Intro
+intro_title: Welcome!
 intro_text: |
   Hello! My name is Michael and I am a current student in the Master of Urban Spatial Analytics program at the University of Pennsylvania. View my projects below: 
 
